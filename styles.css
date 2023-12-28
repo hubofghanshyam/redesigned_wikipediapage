@@ -1,0 +1,132 @@
+body {
+    position: absolute;
+}
+
+.header_div {
+    height: 50px;
+    width: 1200px;
+    border-bottom: solid black;
+
+}
+
+.Container_1{
+    border-right: solid black;
+}
+.wrapper {
+   
+    width: 1200px;
+   
+}
+
+#wiki-img {
+    height: 50px;
+    width: 150px;
+    font-size: 100%;
+    background-color: transparent;
+    color: transparent;
+    margin-left: 20px;
+    padding: 0px;
+
+
+}
+
+#menu-icon {
+
+
+    width: 20px;
+    height: 36px;
+    background-color: transparent;
+    margin-left: 20px;
+    margin-bottom: 5px;
+
+
+}
+
+#input {
+
+    padding: 7px;
+    font-size: 12px;
+    position: absolute;
+    text-align: left;
+    margin-left: 120px;
+    align-self: center;
+    width: 300px;
+    margin-top: 10px;
+
+
+
+}
+#search-icon {
+
+    width: 20px;
+    
+    margin-left: 440px;
+    margin-top: 0px;
+    padding: 12px;
+    background-color: transparent;
+    color: transparent;
+    display: inline-block;
+
+}
+
+
+
+.create_account{
+     
+    margin-left: 250px; 
+    text-decoration: none;
+  
+    
+}
+
+.login {
+    margin-left: 40px;
+    text-decoration: none;
+
+}
+
+.content {
+    height: 1500px;
+    width: 1200px;
+ 
+    display: flex;
+}
+
+.main_contents{
+    border-bottom: 1px solid black;
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    
+}
+
+.Link_Style{
+    margin-left: 30px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.summery {
+    border-bottom: 1px solid black;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#lang_icon{
+ 
+    margin-left: 700px;
+  
+}
+#language{
+    
+   
+    text-decoration: none;
+    
+}
+
+.article{
+    text-decoration: none;
+    margin-top: 7px; 
+    margin-left: 20px;
+    text-decoration: none;
+}
